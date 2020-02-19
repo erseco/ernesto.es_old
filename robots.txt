@@ -1,0 +1,103 @@
+# El robots.txt de Ernesto Serrano: just SEO it!
+#
+# Si estás leyendo esto, es por algo. ¿Por qué no me lo cuentas? 
+# escríbeme a info@ernesto.es
+#
+################################################################
+User-agent: *
+Allow: /
+################################################################
+#
+# Grandes robots.txt de la historia
+# http://www.casareal.es/robots.txt
+# http://www.sgae.es/robots.txt
+# http://www.boe.es/robots.txt
+# http://explicitly.me/robots.txt
+# http://www.google.com/robots.txt
+# https://www.etsy.com/robots.txt
+# http://store.nike.com/robots.txt
+# http://www.google.com/killer-robots.txt
+# http://www.ernesto.es/killer-robots.txt    Si, me he copiado :P
+#
+################################################################
+#
+# Las primeras reglas de robots del mundo. Isaac Asimov. 1942
+# Un robot no puede hacer daño a un ser humano o, por inacción, permitir que un ser humano sufra daño.
+# Un robot debe obedecer las órdenes dadas por los seres humanos, excepto si estas órdenes entrasen en conflicto con la 1ª Ley.
+# Un robot debe proteger su propia existencia en la medida en que esta protección no entre en conflicto con la 1ª o la 2ª Ley.
+#
+################################################################
+#Un guiño a grandes Disallow de los robots.txt
+#
+Disallow: /ES/FamiliaReal/Urdangarin/
+Disallow:/?SGAE=LADRONES=MONOPOLIO
+################################################################
+# 
+# Si tienes que seguir algo, ¡que sea esto!
+#
+User-Agent: MattCutts
+User-Agent: Tux
+Disallow: /+Fry
+Disallow: /+Bender
+################################################################
+#
+#Todos esos robots chungos (o que consumen mucho ancho de banda)
+#
+User-agent: CompSpyBot
+User-agent: Curious George
+User-agent: CybEye.com
+User-agent: DoCoMo
+User-agent: ExB Language Crawler
+User-agent: Ezooms
+User-agent: Flamingo_SearchEngine
+User-agent: Genieo
+User-agent: Genio
+User-agent: LWNutch
+User-agent: LexxeBot
+User-agent: OpenWebIndex
+User-agent: RediffNewsBot
+User-agent: SEOENGWorldBot
+User-agent: Scanmine 
+User-agent: Screaming Frog SEO Spider
+User-agent: ShopWiki
+User-agent: ShowyouBot
+User-agent: Sosospider
+User-agent: WocBot
+User-agent: Yeti
+User-agent: Yeti
+User-agent: YoudaoBot
+User-agent: daumoa
+User-agent: gsa-crawler
+User-agent: libcrawl
+User-agent: linkdex
+User-agent: magpie-crawler
+User-agent: repparser
+User-agent: rogerbot
+User-agent: sindice-site-manager
+User-agent: sogou spider
+User-agent: sogou
+User-agent: woriobot
+User-agent: yacybot
+User-agent: yolinkBot
+Disallow: /
+# 
+#		      _
+#		     ( )
+#		      H
+#		      H
+#		     _H_ 
+#		  .-'-.-'-.
+#		 /         \
+#		|           |
+#		|   .-------'._
+#		|  / /  '.' '. \
+#		|  \ \ @   @ / / 
+#		|   '---------'        
+#		|    _______|  
+#		|  .'-+-+-+|  
+#		|  '.-+-+-+|        Bite my shinny metal ass!
+#		|    """""" |
+#		'-.__   __.-'
+#		     """ 
+#
+################################################################
